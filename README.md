@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Two Pointers
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
