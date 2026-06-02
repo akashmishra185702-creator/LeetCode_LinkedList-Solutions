@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0143-reorder-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 ## Two Pointers
@@ -21,4 +22,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
