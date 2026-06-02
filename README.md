@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,10 +67,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
