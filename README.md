@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
@@ -13,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0143-reorder-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 ## Stack
