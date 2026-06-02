@@ -1,0 +1,36 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode fast = head;
+        ListNode slow = head;
+        int index=0;
+        if(head.next == null && n == 1)
+        {
+            return null;
+        }
+        while(fast.next!=null)
+        {
+            fast = fast.next;
+            if(index >=n)
+            {
+                slow = slow.next;
+            }
+            index ++;
+        }
+        if(slow == head && index == n-1)
+        {
+            return head.next;
+        }
+        slow.next= slow.next.next;
+        return head;
+    }
+}
