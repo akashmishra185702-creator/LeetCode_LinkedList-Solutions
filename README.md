@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Linked List
+## Lined List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
