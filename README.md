@@ -88,10 +88,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0217-contains-duplicate](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 ## String
