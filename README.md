@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 ## String
@@ -116,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
