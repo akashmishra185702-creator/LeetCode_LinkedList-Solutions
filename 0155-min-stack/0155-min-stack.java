@@ -7,9 +7,9 @@ class pair{
     }
 }
 class MinStack {
-    Stack<pair> st;
+    Deque<pair> st;
     public MinStack() {
-        st = new Stack<>();
+        st = new ArrayDeque<>();
     }
     
     public void push(int val) {
