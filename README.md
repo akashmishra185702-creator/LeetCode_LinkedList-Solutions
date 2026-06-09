@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/akashmishra185702-creator/LeetCode-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
